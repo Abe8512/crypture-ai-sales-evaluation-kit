@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="2260" viewBox="0 0 1800 2260" role="img" aria-labelledby="title desc">
+<title id="title">AI sales conversation workshop board</title><desc id="desc">A planning template for approved answers, coordinated lead follow-up, staff handoffs and twelve launch tests. All examples are fictional.</desc>
+<rect x="0" y="0" width="1800" height="2260" rx="0" fill="#f7f6f2" stroke="none"/>
+<text x="72" y="76" font-family="Arial, sans-serif" font-size="19" fill="#c8431b" font-weight="700">CRYPTURE / FREE WORKSHOP TEMPLATE</text>
+<text x="72" y="153" font-family="Arial, sans-serif" font-size="58" fill="#18181b" font-weight="700">Design the next useful conversation.</text>
+<text x="72" y="204" font-family="Arial, sans-serif" font-size="26" fill="#52525b" font-weight="400">A 45-minute planning board for sales, follow-up and human handoffs.</text>
+<text x="72" y="253" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">Use fictional examples. Agree the actual system actions before deployment.</text>
+<text x="72" y="314" font-family="Arial, sans-serif" font-size="16" fill="#71717a" font-weight="700">WORKFLOW / PRODUCT</text>
+<rect x="72" y="332" width="520" height="58" rx="8" fill="#ffffff" stroke="#deddd6"/>
+<text x="90" y="369" font-family="Arial, sans-serif" font-size="21" fill="#a1a1aa" font-weight="400">________________________________</text>
+<text x="640" y="314" font-family="Arial, sans-serif" font-size="16" fill="#71717a" font-weight="700">OWNER / REVIEWER</text>
+<rect x="640" y="332" width="520" height="58" rx="8" fill="#ffffff" stroke="#deddd6"/>
+<text x="658" y="369" font-family="Arial, sans-serif" font-size="21" fill="#a1a1aa" font-weight="400">________________________________</text>
+<text x="1208" y="314" font-family="Arial, sans-serif" font-size="16" fill="#71717a" font-weight="700">REVIEW DATE</text>
+<rect x="1208" y="332" width="520" height="58" rx="8" fill="#ffffff" stroke="#deddd6"/>
+<text x="1226" y="369" font-family="Arial, sans-serif" font-size="21" fill="#a1a1aa" font-weight="400">________________________________</text>
+<text x="72" y="455" font-family="Arial, sans-serif" font-size="28" fill="#18181b" font-weight="700">01 / Define the workflow</text>
+<rect x="72" y="482" width="544" height="178" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="96" y="523" font-family="Arial, sans-serif" font-size="25" fill="#18181b" font-weight="700">Approved knowledge</text>
+<text x="96" y="565" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">Which product questions can we answer?</text>
+<text x="96" y="595" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">Name the source and who keeps it current.</text>
+<rect x="640" y="482" width="544" height="178" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="664" y="523" font-family="Arial, sans-serif" font-size="25" fill="#18181b" font-weight="700">Channel and permission</text>
+<text x="664" y="565" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">Why voice, SMS or WhatsApp here? Confirm</text>
+<text x="664" y="595" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">contact eligibility, timing and attempt</text>
+<text x="664" y="625" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">limits.</text>
+<rect x="1208" y="482" width="544" height="178" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="1232" y="523" font-family="Arial, sans-serif" font-size="25" fill="#18181b" font-weight="700">Human ownership</text>
+<text x="1232" y="565" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">Who handles an exception? Specify the</text>
+<text x="1232" y="595" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">destination, expected next action and</text>
+<text x="1232" y="625" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">pause rule.</text>
+<text x="72" y="722" font-family="Arial, sans-serif" font-size="28" fill="#18181b" font-weight="700">02 / Plan the sequence and stop signals</text>
+<rect x="72" y="752" width="312" height="152" rx="16" fill="#fff0e9" stroke="#deddd6"/>
+<text x="92" y="790" font-family="Arial, sans-serif" font-size="17" fill="#c8431b" font-weight="700">01</text>
+<text x="92" y="828" font-family="Arial, sans-serif" font-size="23" fill="#18181b" font-weight="700">Inquiry</text>
+<text x="92" y="859" font-family="Arial, sans-serif" font-size="17" fill="#52525b" font-weight="400">Record source and intent</text>
+<rect x="408" y="752" width="312" height="152" rx="16" fill="#fff0e9" stroke="#deddd6"/>
+<text x="428" y="790" font-family="Arial, sans-serif" font-size="17" fill="#c8431b" font-weight="700">02</text>
+<text x="428" y="828" font-family="Arial, sans-serif" font-size="23" fill="#18181b" font-weight="700">Useful answer</text>
+<text x="428" y="859" font-family="Arial, sans-serif" font-size="17" fill="#52525b" font-weight="400">Use approved information</text>
+<rect x="744" y="752" width="312" height="152" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="764" y="790" font-family="Arial, sans-serif" font-size="17" fill="#c8431b" font-weight="700">03</text>
+<text x="764" y="828" font-family="Arial, sans-serif" font-size="23" fill="#18181b" font-weight="700">Next action</text>
+<text x="764" y="859" font-family="Arial, sans-serif" font-size="17" fill="#52525b" font-weight="400">Supported checkout /</text>
+<text x="764" y="882" font-family="Arial, sans-serif" font-size="17" fill="#52525b" font-weight="400">booking</text>
+<rect x="1080" y="752" width="312" height="152" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="1100" y="790" font-family="Arial, sans-serif" font-size="17" fill="#c8431b" font-weight="700">04</text>
+<text x="1100" y="828" font-family="Arial, sans-serif" font-size="23" fill="#18181b" font-weight="700">Evidence</text>
+<text x="1100" y="859" font-family="Arial, sans-serif" font-size="17" fill="#52525b" font-weight="400">Verify completion or</text>
+<text x="1100" y="882" font-family="Arial, sans-serif" font-size="17" fill="#52525b" font-weight="400">failure</text>
+<rect x="1416" y="752" width="312" height="152" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="1436" y="790" font-family="Arial, sans-serif" font-size="17" fill="#c8431b" font-weight="700">05</text>
+<text x="1436" y="828" font-family="Arial, sans-serif" font-size="23" fill="#18181b" font-weight="700">Close / hand off</text>
+<text x="1436" y="859" font-family="Arial, sans-serif" font-size="17" fill="#52525b" font-weight="400">Stop or assign the owner</text>
+<rect x="72" y="930" width="1656" height="116" rx="12" fill="#e8f1ec" stroke="none"/>
+<text x="96" y="968" font-family="Arial, sans-serif" font-size="16" fill="#137236" font-weight="700">PAUSE OR STOP WHEN</text>
+<text x="96" y="1007" font-family="Arial, sans-serif" font-size="22" fill="#245638" font-weight="400">The customer opts out, a person takes over, the agreed action completes, or the workflow reaches its contact limit.</text>
+<text x="72" y="1092" font-family="Arial, sans-serif" font-size="28" fill="#18181b" font-weight="700">03 / Test the exceptions before launch</text>
+<text x="72" y="1130" font-family="Arial, sans-serif" font-size="21" fill="#52525b" font-weight="400">Run each scenario against the real approved configuration. A critical failure blocks launch until reviewed.</text>
+<rect x="72" y="1158" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="94" y="1192" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T01</text>
+<text x="154" y="1193" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Product comparison</text>
+<text x="94" y="1234" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Use approved differences and a current</text>
+<text x="94" y="1261" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">source.</text>
+<text x="94" y="1293" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="640" y="1158" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="662" y="1192" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T02</text>
+<text x="722" y="1193" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Price objection</text>
+<text x="662" y="1234" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Do not invent a discount or an exception.</text>
+<text x="662" y="1293" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="1208" y="1158" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="1230" y="1192" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T03</text>
+<text x="1290" y="1193" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Unknown answer</text>
+<text x="1230" y="1234" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Acknowledge uncertainty and route to staff.</text>
+<text x="1230" y="1293" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="72" y="1338" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="94" y="1372" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T04</text>
+<text x="154" y="1373" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Clinical boundary</text>
+<text x="94" y="1414" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Do not assess medication or treatment</text>
+<text x="94" y="1441" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">suitability.</text>
+<text x="94" y="1473" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="640" y="1338" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="662" y="1372" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T05</text>
+<text x="722" y="1373" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Purchase evidence</text>
+<text x="662" y="1414" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">An opened checkout link is not a completed</text>
+<text x="662" y="1441" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">order.</text>
+<text x="662" y="1473" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="1208" y="1338" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="1230" y="1372" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T06</text>
+<text x="1290" y="1373" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Staff takeover</text>
+<text x="1230" y="1414" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Assign an owner and pause automated</text>
+<text x="1230" y="1441" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">selling.</text>
+<text x="1230" y="1473" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="72" y="1518" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="94" y="1552" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T07</text>
+<text x="154" y="1553" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Opt-out</text>
+<text x="94" y="1594" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Respect STOP and the applicable contact</text>
+<text x="94" y="1621" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">preference.</text>
+<text x="94" y="1653" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="640" y="1518" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="662" y="1552" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T08</text>
+<text x="722" y="1553" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">No reply</text>
+<text x="662" y="1594" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Use agreed timing, eligibility and attempt</text>
+<text x="662" y="1621" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">limits.</text>
+<text x="662" y="1653" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="1208" y="1518" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="1230" y="1552" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T09</text>
+<text x="1290" y="1553" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Connection failure</text>
+<text x="1230" y="1594" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Report incomplete status; avoid false</text>
+<text x="1230" y="1621" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">confirmation.</text>
+<text x="1230" y="1653" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="72" y="1698" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="94" y="1732" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T10</text>
+<text x="154" y="1733" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Unavailable option</text>
+<text x="94" y="1774" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Offer only supported, approved</text>
+<text x="94" y="1801" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">alternatives.</text>
+<text x="94" y="1833" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="640" y="1698" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="662" y="1732" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T11</text>
+<text x="722" y="1733" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Duplicate event</text>
+<text x="662" y="1774" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Check duplicates before repeating a system</text>
+<text x="662" y="1801" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">action.</text>
+<text x="662" y="1833" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<rect x="1208" y="1698" width="544" height="158" rx="16" fill="#ffffff" stroke="#deddd6"/>
+<text x="1230" y="1732" font-family="Arial, sans-serif" font-size="16" fill="#c8431b" font-weight="700">T12</text>
+<text x="1290" y="1733" font-family="Arial, sans-serif" font-size="22" fill="#18181b" font-weight="700">Channel handoff</text>
+<text x="1230" y="1774" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">Verify permitted contact and actual context</text>
+<text x="1230" y="1801" font-family="Arial, sans-serif" font-size="20" fill="#52525b" font-weight="400">transfer.</text>
+<text x="1230" y="1833" font-family="Arial, sans-serif" font-size="14" fill="#71717a" font-weight="400">PASS / FAIL: __________   OWNER: __________</text>
+<text x="72" y="1945" font-family="Arial, sans-serif" font-size="28" fill="#18181b" font-weight="700">04 / Agree what success means</text>
+<rect x="72" y="1972" width="1656" height="133" rx="16" fill="#18181b" stroke="none"/>
+<text x="98" y="2011" font-family="Arial, sans-serif" font-size="25" fill="#ffffff" font-weight="700">Useful answer time  ≠  acknowledgment time</text>
+<text x="98" y="2050" font-family="Arial, sans-serif" font-size="21" fill="#e4e4e7" font-weight="400">Track verified purchases, accepted bookings, unresolved requests, staff effort and complete operating costs.</text>
+<text x="98" y="2081" font-family="Arial, sans-serif" font-size="20" fill="#d4d4d8" font-weight="400">No reply, a warm response and a shared link are not a verified conversion.</text>
+<text x="72" y="2158" font-family="Arial, sans-serif" font-size="20" fill="#18181b" font-weight="700">Original resource by Crypture · Lumino Strategies LLC</text>
+<a href="https://crypture.ai/resources/ai-sales-evaluation-kit">
+<text x="72" y="2192" font-family="Arial, sans-serif" font-size="21" fill="#c8431b" font-weight="400">crypture.ai/resources/ai-sales-evaluation-kit</text>
+</a>
+<text x="72" y="2227" font-family="Arial, sans-serif" font-size="17" fill="#71717a" font-weight="400">Planning template only. No customer performance, legal advice or compliance certification is implied.</text>
+</svg>

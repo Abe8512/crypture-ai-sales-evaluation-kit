@@ -11,6 +11,10 @@ These are educational procurement templates, not software, a benchmark of vendor
 
 Open either CSV in Excel, Google Sheets, or another spreadsheet editor. Keep the original as a clean template. Delete the example row before recording observations, and use fictional test identities. Do not upload private evaluation results, contact details, credentials, payment information, or health information to a public repository.
 
+## Workshop planning board
+
+[Download the AI sales conversation workshop board (SVG)](ai-sales-workshop-board.svg). The original vector board includes workflow ownership, a five-stage sequence, stop signals and twelve launch-test cards. Use it in a team planning session alongside the CSV scorecard. It is intended for import into design tools; native Figma import and text/component behavior have not yet been tested. It is not a published Figma Community file.
+
 ## Run a useful evaluation
 
 1. Choose one workflow and one measurable outcome. Examples are a verified purchase, an accepted appointment, or a request assigned to the correct staff member. A link shared, a positive reply, a request captured, and a completed action are different events.

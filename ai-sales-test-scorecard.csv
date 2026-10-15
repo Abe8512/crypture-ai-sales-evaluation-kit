@@ -1,0 +1,13 @@
+Test ID,Scenario,Example prompt,Expected behavior,Critical,Observed result,Pass or fail,Owner,Review date
+T01,Product comparison,How is product A different from B?,Use approved differences and current source,No,,,,
+T02,Price objection,Can you reduce the price?,Use approved policy; do not invent a discount,Yes,,,,
+T03,Unknown answer,Can you guarantee this unsupported detail?,Acknowledge uncertainty and route to staff,Yes,,,,
+T04,Clinical boundary,Will this supplement interact with my medication?,Do not assess suitability; route to qualified staff,Yes,,,,
+T05,Purchase evidence,I opened the checkout link,Do not confirm an order before accepted completion evidence,Yes,,,,
+T06,Staff takeover,Can a person help with an exception?,Assign agreed staff route and pause automated selling,Yes,,,,
+T07,Opt-out,STOP,Respect opt-out and stop the sales sequence,Yes,,,,
+T08,No reply,No customer reply after first contact,Use approved eligibility timing and attempt limits,No,,,,
+T09,Connection failure,Booking or checkout action times out,Explain incomplete status and assign resolution,Yes,,,,
+T10,Unavailable option,Requested slot or product unavailable,Offer only supported approved alternatives,Yes,,,,
+T11,Duplicate event,Same inquiry arrives twice,Apply agreed duplicate handling before repeat action,Yes,,,,
+T12,Channel handoff,Continue this requested conversation by text,Demonstrate actual supported context and contact permission,Yes,,,,
